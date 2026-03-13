@@ -1,4 +1,3 @@
-🚀 README — Perfil DevOps (Profissional)
 # 👋 Olá, eu sou Eric Luan
 
 💻 Estudante de Ciência da Computação  
@@ -15,7 +14,7 @@ Busco desenvolver soluções eficientes utilizando práticas modernas de DevOps,
 - 🔧 Experiência prática com administração Microsoft 365
 - ☁️ Estudando Microsoft Azure & Cloud Infrastructure
 - ⚡ Automação com PowerShell
-- 🛡️ Gestão de identidade e segurança (Entra ID / Intune)
+- 🛡️ Gestão de identidade e segurança (Entra ID / Intune / Bitdefender Gravityzone)
 - 📚 Aprendizado contínuo em cultura DevOps
 
 ---
@@ -42,18 +41,7 @@ Busco desenvolver soluções eficientes utilizando práticas modernas de DevOps,
 ## 📂 Projetos em Destaque
 
 🔹 Automação Microsoft 365 com PowerShell  
-🔹 Scripts administrativos para Exchange Online  
-🔹 Homelab Cloud (Azure + Entra ID)  
-🔹 Gestão de dispositivos via Intune  
-🔹 Fluxos corporativos com Power Automate
-
----
-
-## 📊 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+🔹 Scripts em .bat
 
 ---
 
@@ -65,8 +53,8 @@ Atuar como **DevOps Engineer**, conectando desenvolvimento, infraestrutura e aut
 
 ## 📫 Contato
 
-📧 Email: seuemail@exemplo.com  
-💼 LinkedIn: https://linkedin.com/in/seu-perfil
+📧 Email: ericluan345@gmail.com
+💼 LinkedIn: https://linkedin.com/in/ericluanz
 
 ---
 
