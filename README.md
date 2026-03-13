@@ -28,7 +28,7 @@ Busco desenvolver soluções eficientes utilizando práticas modernas de DevOps,
 
 ### ⚙️ Automação & DevOps
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Batch Script](https://img.shields.io/badge/Batch_Script-.bat-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### 🔐 Segurança & Gestão
