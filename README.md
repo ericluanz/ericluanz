@@ -34,7 +34,7 @@ Busco desenvolver soluções eficientes utilizando práticas modernas de DevOps,
 ### 🔐 Segurança & Gestão
 ![Microsoft Intune](https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Entra_ID-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
-![Defender](https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
+![Bitdefender GravityZone](https://img.shields.io/badge/Bitdefender_GravityZone-ED1C24?style=for-the-badge&logo=bitdefender&logoColor=white)
 
 ---
 
