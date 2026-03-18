@@ -1,49 +1,61 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# 👋 Olá, eu sou Eric Luan
 
-###
+💻 Estudante de Ciência da Computação  
+⚙️ Focado em Infraestrutura, Cloud e Automação  
+☁️ Em formação para atuar como **DevOps Engineer**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Apaixonado por tecnologia, criação e melhoria contínua.  
+Busco desenvolver soluções eficientes utilizando práticas modernas de DevOps, Cloud Computing e automação de ambientes.
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 🚀 Sobre mim
 
-###
+- 🔧 Experiência prática com administração Microsoft 365
+- ☁️ Estudando Microsoft Azure & Cloud Infrastructure
+- ⚡ Automação com PowerShell
+- 🛡️ Gestão de identidade e segurança (Entra ID / Intune / Bitdefender Gravityzone)
+- 📚 Aprendizado contínuo em cultura DevOps
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+---
 
-###
+## 🧰 Stack & Tecnologias
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### ☁️ Cloud & Infraestrutura
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-###
+### ⚙️ Automação & DevOps
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Batch Script](https://img.shields.io/badge/Batch_Script-.bat-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-<br clear="both">
+### 🔐 Segurança & Gestão
+![Microsoft Intune](https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra_ID-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+![Bitdefender GravityZone](https://img.shields.io/badge/Bitdefender_GravityZone-ED1C24?style=for-the-badge&logo=bitdefender&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+---
 
-###
+## 📂 Projetos em Destaque
+
+🔹 Automação Microsoft 365 com PowerShell  
+🔹 Scripts em .bat
+
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar como **DevOps Engineer**, conectando desenvolvimento, infraestrutura e automação para criar ambientes escaláveis, seguros e eficientes.
+
+---
+
+## 📫 Contato
+
+📧 Email: ericluan345@gmail.com
+💼 LinkedIn: https://linkedin.com/in/ericluanz
+
+---
+
+⭐ Sempre aprendendo | 🔄 Sempre automatizando | 🚀 Sempre evoluindo
