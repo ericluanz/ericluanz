@@ -42,6 +42,7 @@ Busco desenvolver soluções eficientes utilizando práticas modernas de DevOps,
 
 🔹 Automação Microsoft 365 com PowerShell  
 🔹 Scripts em .bat
+🔹 Power Automate
 
 ---
 
