@@ -43,9 +43,9 @@ Busco desenvolver soluções eficientes utilizando práticas modernas de DevOps,
 
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
-| [🐍 Scripts de Infraestrutura](https://github.com/seu-usuario/scripts-infra) | Automações do dia a dia: ping, inventário, disco, backup e mais | Python |
-| [⚡ Automação Microsoft 365](https://github.com/seu-usuario/m365-powershell) | Scripts para gestão de usuários, licenças e políticas no M365 | PowerShell |
-| [🔄 Power Automate Flows](https://github.com/seu-usuario/power-automate-flows) | Fluxos de automação de processos corporativos | Power Automate |
+| [🐍 Projetos e Automação de Python](https://github.com/ericluanz/python-projects)) | Automações do dia a dia: ping, inventário, disco, backup e mais | Python |
+| [⚡ Automação Microsoft 365](https://github.com/ericluanz/scripts-powershell) | Scripts para gestão de usuários, licenças e políticas no M365 | PowerShell |
+
 
 ---
 
