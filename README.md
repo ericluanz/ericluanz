@@ -60,6 +60,3 @@ Atuar como **DevOps Engineer**, conectando desenvolvimento, infraestrutura e aut
 📧 Email: ericluan345@gmail.com  
 💼 [LinkedIn](https://linkedin.com/in/ericluanz)
 
----
-
-⚙️ Infraestrutura como código | ☁️ Cloud-first | 🚀 Sempre evoluindo
