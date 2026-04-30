@@ -57,8 +57,22 @@ Atuar como **DevOps Engineer**, conectando desenvolvimento, infraestrutura e aut
 
 ## 📫 Contato
 
-📧 Email: ericluan345@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/ericluanz
+<p align="left">
+    <a href="mailto:ericluan345@gmail.com" target="_blank">
+        <img 
+            src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+            alt="E-mail"
+            title="Entre em contato por e-mail"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/ericluanz" target="_blank">
+        <img 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+            alt="LinkedIn"
+            title="Vamos fazer uma conexão!"
+        />
+    </a>
+</p>
 
 ---
 
