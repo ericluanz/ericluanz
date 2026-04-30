@@ -60,3 +60,11 @@ Atuar como **DevOps Engineer**, conectando desenvolvimento, infraestrutura e aut
 📧 Email: ericluan345@gmail.com  
 💼 [LinkedIn](https://linkedin.com/in/ericluanz)
 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericluanz/ericluanz/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ericluanz/ericluanz/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ericluazn/ericluanz/output/github-snake.svg"/>
+</picture>
+
