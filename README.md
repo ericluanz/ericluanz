@@ -43,8 +43,10 @@ Busco desenvolver soluções eficientes utilizando práticas modernas de DevOps,
 
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
-| [🐍 Projetos e Automação de Python](https://github.com/ericluanz/python-projects) | Automações do dia a dia: ping, inventário, disco, backup e mais | Python |
-| [⚡ Automação Microsoft 365](https://github.com/ericluanz/exchange365-scripts) | Scripts para gestão de usuários, licenças e políticas no M365 | PowerShell |
+| [infra-scripts-.bat](https://github.com/ericluanz/infra-scripts-.bat) | Scripts e automações para gerenciamento de suporte no dia a dia, com foco em ambiente Windows. | Batchfile |
+| [exchange365-scripts](https://github.com/ericluanz/exchange365-scripts) | Automações para Microsoft 365 e Exchange, voltadas à administração e suporte. | PowerShell |
+| [ericluanz](https://github.com/ericluanz/ericluanz) | README do perfil no GitHub, reunindo apresentação, stack, contato e projetos em destaque. | Markdown |
+| [power-automate](https://github.com/ericluanz/power-automate) | Fluxo no Power Automate para automatizar relatórios CSV e reduzir processos manuais. | Power Automate |
 
 
 ---
