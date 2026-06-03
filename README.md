@@ -46,8 +46,8 @@ Busco desenvolver soluções eficientes utilizando práticas modernas de DevOps,
 | [infra-scripts-.bat](https://github.com/ericluanz/infra-scripts-.bat) | Scripts e automações para gerenciamento de suporte no dia a dia, com foco em ambiente Windows. | Batchfile |
 | [exchange365-scripts](https://github.com/ericluanz/exchange365-scripts) | Automações para Microsoft 365 e Exchange, voltadas à administração e suporte. | Microsoft 365 |
 | [python-projects](https://github.com/ericluanz/python-projects) | Scripts em Python para automação de tarefas administrativas, geração de relatórios e otimização de processos de TI. | Python |
-| [python-projects](https://github.com/ericluanz/scripts-powershell) | Coleção de scripts PowerShell para administração de servidores, Active Directory e Microsoft 365. | Powershell |
-| [python-projects](https://github.com/ericluanz/script-samba) | Configurações e automações para gerenciamento de compartilhamentos de arquivos e permissões utilizando Samba em ambientes Linux. | Shell |
+| [scripts-powershell](https://github.com/ericluanz/scripts-powershell) | Coleção de scripts PowerShell para administração de servidores, Active Directory e Microsoft 365. | Powershell |
+| [script-samba](https://github.com/ericluanz/script-samba) | Configurações e automações para gerenciamento de compartilhamentos de arquivos e permissões utilizando Samba em ambientes Linux. | Shell |
 
 ---
 
