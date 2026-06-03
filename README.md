@@ -2,7 +2,7 @@
 
 💻 Estudante de Ciência da Computação  
 ⚙️ Focado em Infraestrutura, Cloud e Automação  
-☁️ ☁️ Evoluindo minha trajetória em **Infraestrutura, Cloud e DevOps**
+☁️ Evoluindo minha trajetória em **Infraestrutura, Cloud e DevOps**
 
 Apaixonado por tecnologia, criação e melhoria contínua.  
 Busco desenvolver soluções eficientes utilizando práticas modernas de DevOps, Cloud Computing e automação de ambientes.
