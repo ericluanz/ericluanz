@@ -2,7 +2,7 @@
 
 💻 Estudante de Ciência da Computação  
 ⚙️ Focado em Infraestrutura, Cloud e Automação  
-☁️ Em formação para atuar como **DevOps Engineer**
+☁️ ☁️ Evoluindo minha trajetória em **Infraestrutura, Cloud e DevOps**
 
 Apaixonado por tecnologia, criação e melhoria contínua.  
 Busco desenvolver soluções eficientes utilizando práticas modernas de DevOps, Cloud Computing e automação de ambientes.
@@ -11,11 +11,11 @@ Busco desenvolver soluções eficientes utilizando práticas modernas de DevOps,
 
 ## 🚀 Sobre mim
 
-- 🔧 Experiência prática com administração Microsoft 365
-- ☁️ Estudando Microsoft Azure & Cloud Infrastructure
-- 🐍 Automação com Python e PowerShell
-- 🛡️ Gestão de identidade e segurança (Entra ID / Intune / Bitdefender GravityZone)
-- 📚 Aprendizado contínuo em cultura DevOps
+- 🔧 Administração e suporte de ambientes Microsoft 365
+- ☁️ Estudos em Microsoft Azure, Cloud Infrastructure e Identity Management
+- 🐍 Desenvolvimento de automações com Python, PowerShell e Shell Script
+- 🛡️ Gestão de dispositivos, identidade e segurança com Intune, Entra ID e Bitdefender GravityZone
+- 📚 Aprendizado contínuo em Cloud, Infraestrutura e práticas DevOps
 
 ---
 
@@ -39,21 +39,17 @@ Busco desenvolver soluções eficientes utilizando práticas modernas de DevOps,
 
 ---
 
-## 📂 Projetos em Destaque
+## 📊 Estatísticas GitHub
 
-| Projeto | Descrição | Tecnologia |
-|---|---|---|
-| [infra-scripts-.bat](https://github.com/ericluanz/infra-scripts-.bat) | Scripts e automações para gerenciamento de suporte no dia a dia, com foco em ambiente Windows. | Batchfile |
-| [m365-powershell-toolkit](https://github.com/ericluanz/m365-powershell-toolkit) | Automações para Microsoft 365 e Exchange, voltadas à administração e suporte. | Microsoft 365 |
-| [python-automation](https://github.com/ericluanz/python-automation) | Scripts em Python para automação de tarefas administrativas, geração de relatórios e otimização de processos de TI. | Python |
-| [powershell-automation](https://github.com/ericluanz/powershell-automation) | Coleção de scripts PowerShell para administração de servidores, Active Directory e Microsoft 365. | Powershell |
-| [samba-automation](https://github.com/ericluanz/samba-automation) | Configurações e automações para gerenciamento de compartilhamentos de arquivos e permissões utilizando Samba em ambientes Linux. | Shell |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericluanz&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericluanz&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Atuar como **DevOps Engineer**, conectando desenvolvimento, infraestrutura e automação para criar ambientes escaláveis, seguros e eficientes.
+Atuar na área de Infraestrutura, Cloud Computing e Automação, contribuindo para ambientes escaláveis, seguros e eficientes, com evolução contínua para funções de Cloud Engineer e DevOps Engineer.
 
 ---
 
