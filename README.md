@@ -91,7 +91,7 @@ Atuar na área de Infraestrutura, Cloud Computing e Automação, contribuindo pa
         <img 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
             alt="LinkedIn"
-            title="Vamos fazer uma conexão!"
+            title="Vamos nos conectar 😁!"
         />
     </a>
 </p>
