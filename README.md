@@ -63,6 +63,7 @@ Busco desenvolver soluções eficientes utilizando práticas modernas de DevOps,
 
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
+| [intune-automation](https://github.com/ericluanz/intune-automation) | Automações para o Microsoft Intune, com foco em empacotamento de aplicativos em .intunewin, implantação e políticas de configuração de dispositivos. | Powershell |
 | [infra-scripts-.bat](https://github.com/ericluanz/infra-scripts-.bat) | Scripts e automações para gerenciamento de suporte no dia a dia, com foco em ambiente Windows. | Batchfile |
 | [m365-powershell-toolkit](https://github.com/ericluanz/m365-powershell-toolkit) | Automações para Microsoft 365 e Exchange, voltadas à administração e suporte. | Microsoft 365 |
 | [python-automation](https://github.com/ericluanz/python-automation) | Scripts em Python para automação de tarefas administrativas, geração de relatórios e otimização de processos de TI. | Python |
