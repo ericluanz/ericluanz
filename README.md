@@ -1,4 +1,4 @@
-# Eric Luan
+# 👋 Olá, eu sou Eric Luan
 
 **`Infrastructure & IT Support Analyst`**
 
