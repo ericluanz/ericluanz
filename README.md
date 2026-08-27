@@ -15,8 +15,8 @@ Analista de Infraestrutura e Suporte com 4 anos de experiência em ambientes cor
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" />
 
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img align="left" alt="AWS" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" alt="Zabbix" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/zabbix.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="Zabbix" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/zabbix.svg" />
 <img align="left" alt="Grafana" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
