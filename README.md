@@ -2,7 +2,7 @@
 
 **`Infrastructure & IT Support Analyst`**
 
-Analista de Infraestrutura e Suporte com 4 anos de experiência em ambientes corporativos, atuando em suporte N1/N2 com gestão de chamados via Jira e cumprimento de SLA. Administro identidades, grupos e permissões em Active Directory, Microsoft 365 e Entra ID, além de apoiar o gerenciamento de recursos AWS com foco em disponibilidade e continuidade operacional. Monitoro ativos e serviços com Zabbix e Grafana, analisando métricas, alertas e performance do ambiente. Automatizo rotinas internas com PowerShell, Python e Power Automate, reduzindo tarefas manuais e padronizando processos. Cursando Ciência da Computação e evoluindo para Cloud e DevOps.
+Analista de Infraestrutura e Suporte com +2 anos de experiência em ambientes corporativos, atuando em suporte N1/N2 com gestão de chamados via Jira e cumprimento de SLA. Administro identidades, grupos e permissões em Active Directory, Microsoft 365 e Entra ID, além de apoiar o gerenciamento de recursos AWS com foco em disponibilidade e continuidade operacional. Monitoro ativos e serviços com Zabbix e Grafana, analisando métricas, alertas e performance do ambiente. Automatizo rotinas internas com PowerShell, Python e Power Automate, reduzindo tarefas manuais e padronizando processos. Cursando Ciência da Computação e evoluindo para Cloud e DevOps.
 
 ---
 
